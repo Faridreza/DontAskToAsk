@@ -4,6 +4,7 @@ import requests
 
 GroupQuestion = Bot.Client("GroupQuestion", api-id,api-hash)
 
+
 ListQuestion = [
     "میتونم",
     "می تونم",
